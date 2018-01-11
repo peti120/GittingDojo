@@ -3,7 +3,6 @@ public class Gittie {
     public void introduce() {
         String name = "Gittie";
         System.out.println("Hello, " + name);
-
         Sytem.out.println("Cső te$ám");
         Sytem.out.println("Hello bro");
     }
