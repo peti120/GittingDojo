@@ -1,7 +1,8 @@
 public class Gittie {
 
     public void introduce() {
-        System.out.println("Hello, I'm Gittie!");
+        Sytem.out.println("Cső te$ám");
+        Sytem.out.println("Hello bro");
     }
 
 
