@@ -20,6 +20,6 @@ public class Gittie {
     }
 
     public void shout() {
-        System.out.println("WOOOAAAAAAAAA!");
+        System.out.println("WOOOAAAAAAAAAAA!");
     }
 }
