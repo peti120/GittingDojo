@@ -18,4 +18,8 @@ public class Gittie {
     public void add(){
         System.out.pritln("Add function");
     }
+
+    public void shout() {
+        System.out.println("WOOOAAAAAAAAA!");
+    }
 }
